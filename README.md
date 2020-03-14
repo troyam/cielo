@@ -146,7 +146,6 @@ cielo.creditCard.completeTransaction(dadosSale)
     .catch((err) => {
         return console.error('ERRO', err);
     })
-})
 ```
 
 Ou usando Async / Await
